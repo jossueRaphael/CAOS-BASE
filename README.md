@@ -58,7 +58,7 @@ cd storage
 
 4 - Clone o repositório com o comando abaixo:
 ```
-git clone https://github.com/caioreis29974/caos-bot/
+git clone https://github.com/caioreis29974/CAOS-BOT/
 ```
 
 5 - Entre na pasta clonada:
