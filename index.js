@@ -608,7 +608,7 @@ case 'chifre':
 `╭═════════════════ ⪩
 │   RESULTADO DO CHIFRE👁⃟
 ├───────────────
-│  OLÁ: ${pushName} 🤟
+│  OLÁ: ${pushname} 🤟
 │  SEU CHIFRE TEM: ${random2} CM
 │  RESULTADO: ${resultado}
 ╰═════════════════ ⪨`;
