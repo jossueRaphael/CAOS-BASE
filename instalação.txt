@@ -1,0 +1,30 @@
+======================================================================================
+Coloque um de cada vez no termux, sempre que aparece [y/n] sempre digita y e da enter
+======================================================================================
+
+
+[1]  termux-setup-storage
+
+[2]  pkg upgrade
+
+[3]  pkg update  
+
+[4]  pkg install nodejs  
+
+[5]  pkg install nodejs-lts  
+
+[6]  pkg install git  
+
+[7]  pkg install ffmpeg
+
+[8]  cd /storage/CAOS BASE 
+
+#Isso pode mudar de acordo onde vc salvou os arquivos do bot
+
+[9]  npm start ou node index.js
+
+
+======================================================================================
+======================================================================================
+
+@caio.xyz_
