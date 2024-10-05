@@ -58,7 +58,7 @@ cd storage
 
 4 - Clone o repositório com o comando abaixo:
 ```
-git clone https://github.com/caioreis29974/CAOS-BOT/
+git clone https://github.com/caioreis29974/CAOS-BASE/
 ```
 
 5 - Entre na pasta clonada:
@@ -96,13 +96,13 @@ Durante a instalação, certifique-se de marcar a opção para instalar o npm (N
 4. Clone o repositório:
 - Navegue até o diretório onde deseja instalar o bot (use o comando cd para navegar até a pasta de destino) e execute o comando abaixo para clonar o repositório:
 ```
-git clone https://github.com/caioreis29974/CAOS-BOT.git
+git clone https://github.com/caioreis29974/CAOS-BASE.git
 ```
 
 5. Acesse a pasta do projeto:
 - Entre na pasta clonada com o comando:
 ```
-cd caos-bot
+cd CAOS-BASE
 ```
 
 6. Instale as dependências do projeto:
