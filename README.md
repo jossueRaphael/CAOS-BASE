@@ -136,5 +136,6 @@ npm start
 
 Observações:
 - Certifique-se de que o Node.js e o Git estejam corretamente instalados antes de iniciar o processo.
+- Ao abrir os arquivos do bot, apague a pasta "qrcode" para que o bot gere o seu codigo.
 - Em caso de problemas com as dependências, tente executar o comando npm install novamente.
 - Para automatizar o início do bot ao iniciar o sistema, considere configurar scripts ou serviços dependendo do seu sistema operacional.
