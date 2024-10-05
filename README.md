@@ -63,7 +63,7 @@ git clone https://github.com/caioreis29974/CAOS-BASE/
 
 5 - Entre na pasta clonada:
 ```
-cd caos-bot
+cd CAOS-BASE
 ```
 
 6 - Inicie o bot com o comando:
